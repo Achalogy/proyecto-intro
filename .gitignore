@@ -1,0 +1,4 @@
+*.out
+game_data/*
+.vscode
+.workspace
